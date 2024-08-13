@@ -1,17 +1,18 @@
 # Documentation
 
-This folder contains documentation related to GeoThai's branding and design assets.
+Welcome to the documentation section of GeoThai Assets! 📚 Here you'll find essential resources to guide you in using and contributing to our assets.
 
-## Files
+## Contents
 
-- **`branding-guidelines.md`**: Detailed branding guidelines, including logo usage, color schemes, and typography.
-- **`color-palette/`**: Contains files related to the color palette used in GeoThai’s branding.
+- **[Branding Guidelines](./branding-guidelines.md)**: All you need to know about our brand identity.
+- **[Color Palette](./color-palette/README.md)**: Details on our color schemes for a cohesive design.
 
 ## Usage
 
-- Review the **`branding-guidelines.md`** to understand the proper usage of the GeoThai brand assets.
-- Use the **`color-palette/`** files to integrate GeoThai’s colors into your projects. The `color-palette.css` and `color-palette.json` files provide color definitions for various applications.
+Refer to the Branding Guidelines for comprehensive instructions on using our assets to maintain consistency across all media.
 
-## Contribution
+## Need Help?
 
-If you have suggestions or updates for the documentation, please submit a pull request or open an issue.
+Check out the [README.md](../README.md) in the root directory for more information on how to get started.
+
+Happy designing! 🎨

@@ -1,21 +1,33 @@
 # Favicons
 
-This folder contains favicons in various sizes and formats for GeoThai.
+Explore the favicons used by GeoThai! 🖼️ These are essential for your web presence.
 
-## Files
+## Available Files
 
-- **`android-chrome-192x192.png`**: Favicon for Android devices.
-- **`android-chrome-512x512.png`**: Larger favicon for Android devices.
-- **`apple-touch-icon.png`**: Favicon for Apple devices.
+- **`android-chrome-192x192.png`**: For Android Chrome.
+- **`android-chrome-512x512.png`**: For Android Chrome (large).
+- **`apple-touch-icon.png`**: For Apple touch devices.
 - **`favicon-16x16.png`**: Standard favicon size.
-- **`favicon-32x32.png`**: Medium favicon size.
-- **`favicon.ico`**: Standard ICO format favicon.
+- **`favicon-32x32.png`**: Larger favicon size.
+- **`favicon.ico`**: Traditional ICO format.
 
-## Usage
+## Example Usage
 
-- Use the appropriate favicon size for different contexts (e.g., `android-chrome-192x192.png` for Android home screens).
-- Refer to the [branding-guidelines.md](../docs/branding-guidelines.md) for proper usage.
+1. Make sure the `favicon.ico` file is placed in the public folder.
+2. Add the following lines to the `<head>` of your HTML:
 
-## Contribution
+   ```html
+   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+   ```
 
-Add or update favicons by following the naming conventions and usage guidelines outlined in the `branding-guidelines.md`.
+## Live Demo
+
+View our live favicon examples on our [website](https://geothai.vercel.app/).
+
+## Need Help?
+
+Consult the [Images](../README.md) directory for more information.
+
+Shine bright online! ✨

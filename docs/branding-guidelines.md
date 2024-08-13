@@ -21,6 +21,7 @@ To maintain clarity, always leave sufficient space around the logo. The minimum 
 ### 2.3. Incorrect Usage
 
 Do not:
+
 - Alter the logo colors.
 - Add effects or distort the logo.
 - Place the logo on backgrounds that reduce its legibility.
@@ -108,6 +109,7 @@ Use imagery to support and enhance the messaging in your materials, ensuring it 
 ## 9. Contact Information
 
 For questions or additional information about branding guidelines, please contact:
+
 - **Email**: pyyupsk@proton.me
 - **Website**: [geothai.vercel.app](https://geothai.vercel.app/)
 

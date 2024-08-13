@@ -1,21 +1,27 @@
 # Icons
 
-This folder contains icons used in GeoThai’s applications and website.
+Welcome to the Icons section! 🛠️ Here you'll find the various icons used by GeoThai for different applications.
 
-## Files
+## Available Icons
 
-- **`GeoThai-icon-dark.png`**: Dark-themed icon version.
-- **`GeoThai-icon-dark.svg`**: Dark-themed icon in SVG format.
-- **`GeoThai-icon-light.png`**: Light-themed icon version.
-- **`GeoThai-icon-light.svg`**: Light-themed icon in SVG format.
-- **`GeoThai-icon.png`**: Standard icon version.
-- **`GeoThai-icon.svg`**: Standard icon in SVG format.
+- **`GeoThai-icon-dark.png`**: Dark theme icon.
+- **`GeoThai-icon-light.png`**: Light theme icon.
+- **`GeoThai-icon.svg`**: Scalable vector icon for all needs.
 
-## Usage
+## How to Implement
 
-- Choose the appropriate icon version based on the background or theme of your application or website.
-- For more details on icon usage, refer to the [branding-guidelines.md](../docs/branding-guidelines.md).
+Use these icons in your HTML as follows:
 
-## Contribution
+```html
+<img src="images/icons/GeoThai-icon.svg" alt="GeoThai Icon" />
+```
 
-Ensure new icons follow the naming conventions and guidelines specified in the `branding-guidelines.md`.
+## Live Demo
+
+See how these icons are integrated into our [website](https://geothai.vercel.app).
+
+## Questions?
+
+Check the [Images](../README.md) directory for further details.
+
+Iconize your design! 🌟

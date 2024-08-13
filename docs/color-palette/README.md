@@ -1,17 +1,18 @@
 # Color Palette
 
-This folder contains files related to GeoThai’s color palette.
+Dive into the GeoThai color palette! 🌈 These colors are integral to our brand’s visual identity.
 
 ## Files
 
-- **`color-palette.css`**: CSS file containing color variables for use in stylesheets.
-- **`color-palette.json`**: JSON file providing color definitions for use in various applications.
+- **[color-palette.css](./color-palette.css)**: A stylesheet for easy integration into your projects.
+- **[color-palette.json](./color-palette.json)**: JSON format for developers to use in various applications.
 
-## Usage
+## Live Demo
 
-- **`color-palette.css`**: Import this file into your CSS or SASS files to use GeoThai’s colors as variables.
-- **`color-palette.json`**: Use this file for programmatically accessing color values in JavaScript or other tools.
+See the color palette in action! Visit our [live demo page](https://ui.jln.dev/theme/6uYLhSPK85m3ZPGs) for real-time examples.
 
-## Contribution
+## Need Assistance?
 
-If you need to update or add new colors, please modify the relevant files and follow the guidelines in the `branding-guidelines.md` document.
+For more details, refer back to the [Documentation](../README.md).
+
+Let’s make your design colorful! 🌟

@@ -1,21 +1,27 @@
 # Logos
 
-This folder contains various versions and formats of GeoThai’s logos.
+Welcome to the Logos directory! 🌟 Here you’ll find the official logos of GeoThai in various formats.
 
-## Files
+## Available Logos
 
-- **`GeoThai-logo-dark.png`**: Dark-themed logo version.
-- **`GeoThai-logo-dark.svg`**: Dark-themed logo in SVG format.
-- **`GeoThai-logo-light.png`**: Light-themed logo version.
-- **`GeoThai-logo-light.svg`**: Light-themed logo in SVG format.
-- **`GeoThai-logo.png`**: Standard logo version.
-- **`GeoThai-logo.svg`**: Standard logo in SVG format.
+- **`GeoThai-logo-dark.png`**: Dark version of the logo.
+- **`GeoThai-logo-light.png`**: Light version of the logo.
+- **`GeoThai-logo.svg`**: Scalable vector version for all sizes.
 
-## Usage
+## How to Use
 
-- Use the logo version that best fits the background and design context of your project.
-- Refer to the [branding-guidelines.md](../docs/branding-guidelines.md) for detailed usage instructions.
+Include our logo in your HTML or CSS like this:
 
-## Contribution
+```html
+<img src="images/logos/GeoThai-logo.svg" alt="GeoThai Logo" />
+```
 
-When adding or updating logos, ensure they meet the quality standards and follow the naming conventions outlined in the `branding-guidelines.md`.
+## Live Demo
+
+Check out our [press page](https://geothai.vercel.app/press) to see how the logos are used.
+
+## Need Assistance?
+
+Visit the [Images](../README.md) directory for more information.
+
+Brand with pride! ✨

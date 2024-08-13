@@ -1,17 +1,23 @@
 # Images
 
-This folder contains various image assets used by GeoThai.
+Welcome to the Images directory! 📸 Here, you’ll find favicons, icons, and logos used by GeoThai.
 
-## Subfolders
+## Structure
 
-- **`favicons/`**: Contains favicons in different sizes and formats.
-- **`icons/`**: Includes various icons used in GeoThai’s applications and website.
-- **`logos/`**: Stores different versions and formats of GeoThai’s logos.
+- **[Favicons](./favicons)**: Various sizes and formats for web applications.
+- **[Icons](./icons)**: Different styles and types for various needs.
+- **[Logos](./logos)**: Our brand logos in different formats.
 
-## Usage
+## How to Use
 
-- Use the assets in this folder according to the guidelines provided in the respective subfolders' `README.md` files.
+For guidance on using these assets, refer to the respective subdirectories. Each directory contains a README with specific usage instructions.
 
-## Contribution
+## Live Demo
 
-If you have new images or need to update existing ones, please follow the guidelines and contribute through pull requests or issues.
+Check out how these assets are used on our [press resources](https://geothai.vercel.app/press) page.
+
+## Questions?
+
+Feel free to reach out or consult the [main README.md](../README.md) for more information.
+
+Design with excellence! 🌟

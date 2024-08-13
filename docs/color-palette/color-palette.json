@@ -1,85 +1,85 @@
 {
-    "background": {
-        "light": "#F5F6F7",
-        "dark": "#22262A"
-    },
-    "foreground": {
-        "light": "#1E1E1E",
-        "dark": "#F2F2F2"
-    },
-    "card": {
-        "light": "#FFFFFF",
-        "dark": "#22262A"
-    },
-    "card-foreground": {
-        "light": "#1E1E1E",
-        "dark": "#F2F2F2"
-    },
-    "popover": {
-        "light": "#FFFFFF",
-        "dark": "#22262A"
-    },
-    "popover-foreground": {
-        "light": "#1E1E1E",
-        "dark": "#F2F2F2"
-    },
+  "background": {
+    "light": "#F5F6F7",
+    "dark": "#22262A"
+  },
+  "foreground": {
+    "light": "#1E1E1E",
+    "dark": "#F2F2F2"
+  },
+  "card": {
+    "light": "#FFFFFF",
+    "dark": "#22262A"
+  },
+  "card-foreground": {
+    "light": "#1E1E1E",
+    "dark": "#F2F2F2"
+  },
+  "popover": {
+    "light": "#FFFFFF",
+    "dark": "#22262A"
+  },
+  "popover-foreground": {
+    "light": "#1E1E1E",
+    "dark": "#F2F2F2"
+  },
 
-    "primary": {
-        "light": "#006edb",
-        "dark": "#1A8CFF"
-    },
-    "primary-foreground": {
-        "light": "#FFFFFF",
-        "dark": "#00264D"
-    },
+  "primary": {
+    "light": "#006edb",
+    "dark": "#1A8CFF"
+  },
+  "primary-foreground": {
+    "light": "#FFFFFF",
+    "dark": "#00264D"
+  },
 
-    "secondary": {
-        "light": "#E7E7E7",
-        "dark": "#3A3D3F"
-    },
-    "secondary-foreground": {
-        "light": "#1E1E1E",
-        "dark": "#E6E6E6"
-    },
+  "secondary": {
+    "light": "#E7E7E7",
+    "dark": "#3A3D3F"
+  },
+  "secondary-foreground": {
+    "light": "#1E1E1E",
+    "dark": "#E6E6E6"
+  },
 
-    "muted": {
-        "light": "#E0E0E0",
-        "dark": "#394046"
-    },
-    "muted-foreground": {
-        "light": "#6D6D6D",
-        "dark": "#adadad"
-    },
+  "muted": {
+    "light": "#E0E0E0",
+    "dark": "#394046"
+  },
+  "muted-foreground": {
+    "light": "#6D6D6D",
+    "dark": "#adadad"
+  },
 
-    "accent": {
-        "light": "#E4E6E9",
-        "dark": "#43484B"
-    },
-    "accent-foreground": {
-        "light": "#1E1E1E",
-        "dark": "#E6E6E6"
-    },
+  "accent": {
+    "light": "#E4E6E9",
+    "dark": "#43484B"
+  },
+  "accent-foreground": {
+    "light": "#1E1E1E",
+    "dark": "#E6E6E6"
+  },
 
-    "destructive": {
-        "light": "#FF4751",
-        "dark": "#eb000c"
-    },
-    "destructive-foreground": {
-        "light": "#FFFFFF",
-        "dark": "#520000"
-    },
+  "destructive": {
+    "light": "#FF4751",
+    "dark": "#eb000c"
+  },
+  "destructive-foreground": {
+    "light": "#FFFFFF",
+    "dark": "#520000"
+  },
 
-    "border": {
-        "light": "#DDDDDD",
-        "dark": "#2E3338"
-    },
-    "input": {
-        "light": "#FFFFFF",
-        "dark": "#2E3338"
-    },
+  "border": {
+    "light": "#DDDDDD",
+    "dark": "#2E3338"
+  },
+  "input": {
+    "light": "#FFFFFF",
+    "dark": "#2E3338"
+  },
 
-    "ring": {
-        "light": "#006edb",
-        "dark": "#1A8CFF"
-    }
+  "ring": {
+    "light": "#006edb",
+    "dark": "#1A8CFF"
+  }
 }

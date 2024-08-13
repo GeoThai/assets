@@ -1,62 +1,102 @@
 # Contributing to GeoThai Assets
 
-Thank you for your interest in contributing to the GeoThai Assets repository! We welcome contributions that enhance our collection of assets and improve our documentation. Please follow these guidelines to ensure a smooth and effective contribution process.
+Thank you for your interest in contributing to the GeoThai Assets repository! 🎨 Your contributions help us maintain and improve our collection of assets, ensuring they meet the needs of our community.
 
 ## How to Contribute
 
-### 1. Reporting Issues
+We welcome contributions of all kinds! Here’s how you can get involved:
 
-If you find any issues with the assets or have suggestions for improvements:
-1. **Search for existing issues**: Check if the issue has already been reported or addressed.
-2. **Create a new issue**: Provide a clear description of the issue, including steps to reproduce it if applicable.
+### 1. **Reporting Issues**
 
-### 2. Making Changes
+If you find a problem or have a suggestion, please [open an issue](https://github.com/GeoThai/assets/issues) on GitHub. Be sure to provide as much detail as possible, including:
 
-To contribute code or updates to the assets:
-1. **Fork the Repository**: Create a personal fork of the GeoThai Assets repository on GitHub.
-2. **Clone Your Fork**: Clone the forked repository to your local machine.
+- A clear description of the problem or suggestion.
+- Steps to reproduce the issue, if applicable.
+- Screenshots or examples to illustrate the problem.
+
+### 2. **Suggesting Enhancements**
+
+If you have ideas for new assets or improvements to existing ones, please [open an issue](https://github.com/GeoThai/assets/issues) with your suggestions. We value your feedback and are always looking for ways to enhance our assets.
+
+### 3. **Submitting Pull Requests**
+
+To contribute directly by submitting new assets or improvements, please follow these steps:
+
+1. **Fork the Repository**
+
+   Click the "Fork" button at the top right of this page to create your own copy of the repository.
+
+2. **Clone Your Fork**
+
    ```bash
-   git clone https://github.com/your-username/geothai-assets.git
+   git clone https://github.com/your-username/assets.git
+   cd assets
    ```
-3. **Create a Branch**: Create a new branch for your changes.
+
+3. **Create a New Branch**
+
    ```bash
    git checkout -b your-branch-name
    ```
-4. **Make Your Changes**: Edit the files as needed. Ensure your changes adhere to the guidelines outlined in the `branding-guidelines.md`.
-5. **Commit Your Changes**: Commit your changes with a clear and descriptive commit message.
+
+4. **Make Your Changes**
+
+   Add your new assets or make improvements to existing ones. Be sure to follow our directory structure and naming conventions.
+
+5. **Commit Your Changes**
+
+   - If the change involves adding a new asset:
+
+     ```bash
+     feat(asset-type): add new [Asset Name]
+
+     [Brief Description] body's lines must not be longer than 100 characters.
+     ```
+
+   - If the change involves improving an existing asset:
+
+     ```bash
+     fix(asset-type): improve [Asset Name]
+
+     [Brief Description] body's lines must not be longer than 100 characters.
+     ```
+
    ```bash
    git add .
-   git commit -m "Brief description of the changes"
+   git commit -m "Your Commit Message"
    ```
-6. **Push Your Changes**: Push your changes to your forked repository.
+
+   > [Note]\
+   > You can use the "git commit --amend" command to amend your last commit.
+
+6. **Push Your Changes**
+
    ```bash
    git push origin your-branch-name
    ```
-7. **Open a Pull Request**: Go to the original GeoThai Assets repository and open a pull request. Provide a detailed description of your changes and why they are needed.
 
-### 3. Code and Asset Standards
+7. **Create a Pull Request**
 
-- **Consistency**: Follow existing naming conventions and file structures.
-- **Documentation**: Update or create `README.md` files as necessary to reflect changes.
-- **Quality**: Ensure that new assets are high-quality and adhere to the branding guidelines.
+   Go to [the pull requests page](https://github.com/GeoThai/assets/pulls) and click "New Pull Request". Provide a clear description of your changes and any relevant information.
 
-### 4. Reviewing Pull Requests
+### 4. **Review Process**
 
-When reviewing pull requests:
-- **Verify Changes**: Check that the changes are clear, useful, and follow the repository guidelines.
-- **Provide Feedback**: Offer constructive feedback and suggest improvements if needed.
-- **Test Changes**: If applicable, test the changes to ensure they work as intended.
+Once you’ve submitted your pull request, our team will review it. We may provide feedback or request changes to ensure the contribution aligns with our guidelines. We appreciate your patience during this process.
 
-### 5. Licensing
+### Guidelines
 
-By contributing to this repository, you agree that your contributions will be licensed under the same terms as the existing assets. Ensure your contributions comply with the [LICENSE](LICENSE) file.
+- **File Naming**: Follow the existing naming conventions to ensure consistency.
+- **Documentation**: Update the relevant `README.md` files if you add new assets or make significant changes.
+- **Quality**: Ensure all assets are of high quality and meet our standards.
 
-## Contact
+### Code of Conduct
 
-For any questions or further clarification, please contact us at:
-- **Email**: support@geothai.org
-- **GitHub Issues**: [Create an issue](https://github.com/geothai/geothai-assets/issues)
+By participating in this project, you agree to abide by our [Code of Conduct](/CODE_OF_CONDUCT.md).
 
-## Thank You!
+## Need Help?
 
-We appreciate your contributions to GeoThai and your commitment to enhancing our assets. Your efforts help us provide better resources for geographic data and support the mission of GeoThai.
+If you have questions or need assistance, please reach out by [opening an issue](https://github.com/GeoThai/assets/issues) or contacting us via our [contact page](https://github.com/GeoThai/assets#contact).
+
+Thank you for helping us improve GeoThai Assets! 🚀
+
+Happy contributing! 🌟
