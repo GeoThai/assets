@@ -1,7 +1,7 @@
 {
   "name": "@geothai/assets",
   "version": "1.0.0",
-  "description": "GeoThai Assets Repository - Collection of logos, favicons, icons, and other visual assets for GeoThai.",
+  "description": "A collection of logos, icons, favicons, and design assets for GeoThai. 🎨",
   "repository": {
     "type": "git",
     "url": "https://github.com/GeoThai/assets.git"
