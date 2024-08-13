@@ -32,36 +32,34 @@ Do not:
 
 ## 3. Color Palette
 
-### 3.1. Primary Colors
-
-- **GeoThai Blue**: #0033A0
-- **GeoThai Green**: #009B77
-
-### 3.2. Secondary Colors
-
-- **Light Grey**: #F0F0F0
-- **Dark Grey**: #333333
-
-### 3.3. Usage
+### 3.1. Usage
 
 Use primary colors predominantly in branding materials. Secondary colors can be used for accents and background elements. Maintain color contrast for readability and accessibility.
 
-### 3.4. Color Files
+### 3.2. Color Files
 
 - **CSS**: `color-palette.css` for web styles.
 - **JSON**: `color-palette.json` for programmatic access.
+
+### 3.3. Theme Preview
+
+- **Theme Name**: รัตนชาติฟ้ารุ่ง (Ratanachatfarung)
+- **Description**: This theme conveys the beauty of the sky and gems.
+- **Preview Link**: [Preview Theme](https://ui.jln.dev/theme/6uYLhSPK85m3ZPGs)
+
+Use the provided link to preview how the GeoThai color palette looks when applied to a page. This can help visualize the color scheme in a practical context and ensure it aligns with the desired branding aesthetics.
 
 ## 4. Typography
 
 ### 4.1. Primary Typeface
 
-- **Font Family**: GeoThai Sans
-- **Weights**: Regular, Bold
+- **Font Family**: Kanit
+- **Weights**: Regular, SemiBold
 
 ### 4.2. Usage
 
-- **Headings**: Use GeoThai Sans Bold for headings.
-- **Body Text**: Use GeoThai Sans Regular for body text.
+- **Headings**: Use Kanit SemiBold for headings.
+- **Body Text**: Use Kanit Regular for body text.
 
 ### 4.3. Web and Print
 
