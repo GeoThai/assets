@@ -1,6 +1,6 @@
 # GeoThai Assets Repository
 
-![GeoThai Logo](images/logos/GeoThai-logo.png)
+![GeoThai Logo](images/logos/GeoThai-logo-light.svg)
 
 Welcome to the GeoThai Assets Repository! This repository contains various assets used by GeoThai, including logos, favicons, icons, and more. The assets are organized into folders for easy access and management.
 
